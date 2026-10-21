@@ -1,0 +1,5 @@
+pymupdf>=1.24
+numpy
+opencv-python-headless
+# DirectML 版 ONNX Runtime：Windows 上有 DX12 显卡（NVIDIA / AMD / Intel）时用 GPU，否则自动用 CPU
+onnxruntime-directml>=1.17

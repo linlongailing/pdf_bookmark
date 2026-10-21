@@ -1,0 +1,8 @@
+build/
+dist/
+build_test/
+models/
+onnx_models/
+.venv/
+__pycache__/
+*.pyc
